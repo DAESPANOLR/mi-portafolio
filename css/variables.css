@@ -1,0 +1,19 @@
+:root {
+	color-scheme: dark;
+	--bg: #0b0d12;
+	--bg-soft: #10131a;
+	--surface: #141821;
+	--surface-raised: #191e28;
+	--text: #f2f3f5;
+	--text-soft: #a1a7b3;
+	--muted: #707785;
+	--line: rgba(255, 255, 255, 0.1);
+	--accent: #b8f36b;
+	--accent-bright: #ceff82;
+	--cyan: #76ddd1;
+	--font-main: "Manrope", "Segoe UI", sans-serif;
+	--font-mono: "DM Mono", Consolas, monospace;
+	--container: 1160px;
+	--header-height: 78px;
+	--radius: 16px;
+}
